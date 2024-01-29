@@ -1,2 +1,2 @@
 # getgitship.github.io
-fof you..
+for you..
